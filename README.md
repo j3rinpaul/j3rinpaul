@@ -3,6 +3,7 @@
 <h3>~ Interested in Machine Learning</h3>
 <h3>~ Software Developer</h3>
 <h3>~ Researcher</h3>
+<hr>
 <h4>Languages:</h4>
 <ul>
   <img src = "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
@@ -16,6 +17,8 @@
   <img  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
 </ul>
+<br>
+<hr>
 <img src="https://github-readme-stats.vercel.app/api?username=mrwolfie13&theme=">
 <br>
 <br>
