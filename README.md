@@ -2,6 +2,7 @@
 <h3>Student @ Government Engineering Idukki</h3>
 <h3>~ Interested in Machine Learning</h3>
 <h3>~ Software Developer</h3>
+<h3>~ Researcher</h3>
 <h4>Languages:</h4>
 <ul>
   <img src = "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
