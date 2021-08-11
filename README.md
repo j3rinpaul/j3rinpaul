@@ -3,6 +3,7 @@
 <h3>~ Interested in Machine Learning</h3>
 <h3>~ Software Developer</h3>
 <h3>~ Researcher</h3>
+<h3>~ FullStack developer </h3>
 <hr>
 <h4>Languages:</h4>
 <ul>
