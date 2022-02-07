@@ -4,7 +4,7 @@
 <h3>~ Software Developer</h3>
 <h3>~ Researcher</h3>
 <h3>~ FullStack developer </h3>
-<h3>~ Mobile App developer </h3>
+<h3>~ App developer </h3>
 <h3>~ Python developer </h3>
 <hr>
 <h4>Languages:</h4>
