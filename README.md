@@ -33,7 +33,7 @@
 </ul>
 <br>
 <hr>
-<img src="https://github-readme-stats.vercel.app/api?username=mrwolfie13&theme=">
+<img src="https://github-readme-stats.vercel.app/api?username=j3rinpaul&theme=">
 <hr>
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrwolfie13&theme=">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j3rinpaul&theme=">
