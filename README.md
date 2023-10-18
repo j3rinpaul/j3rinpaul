@@ -23,5 +23,5 @@
 <br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=j3rinpaul&theme=dark"/>
   <br/>
-   <a href="https://github.com/j3rinpaul"><img alt="Jerin Paul's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=j3rinpaul&custom_title=Jerin%20Paul's%20Activity%20Graph&theme=react-dark" /></a>
-  <br />
+<!--    <a href="https://github.com/j3rinpaul"><img alt="Jerin Paul's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=j3rinpaul&custom_title=Jerin%20Paul's%20Activity%20Graph&theme=react-dark" /></a> -->
+<!--   <br /> -->
