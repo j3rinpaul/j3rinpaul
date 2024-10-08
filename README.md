@@ -1,17 +1,15 @@
 <h1> Jerin Paul </h1>
-<h3>Student @ Government Engineering College Idukki</h3>
+<h3>Software Engineer @ flxii.work</h3>
 <h3>~ Interested in Machine Learning</h3>
-<h3>~ Software Developer</h3>
 <h3>~ Researcher</h3>
 <h3>~ FullStack developer </h3>
 <h3>~ App developer </h3>
-<h3>~ Data Scientist</h3>
 <h3>~ Python developer </h3>
 <hr>
 <h4>Languages:</h4>
  
-<a href="https://jerinpaul.tech">
-    <img src="https://skillicons.dev/icons?i=python,java,c,javascript,pytorch,tensorflow,dart,flutter,react,redux,nodejs,nextjs,vercel,git,cpp,html,css,materialui,matlab,firebase,mysql,r,supabase,ts,flask,django,gitlab,gcp,docker,cloudflare&perline=6" />
+<a href="https://j3rin-paul-omega.vercel.app/">
+    <img src="https://skillicons.dev/icons?i=python,java,c,javascript,pytorch,tensorflow,dart,flutter,react,redux,nextjs,vercel,git,cpp,html,css,materialui,matlab,firebase,mysql,supabase,ts,fastapi,gitlab,docker&perline=6" />
   </a>
 
 <br>
