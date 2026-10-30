@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on predicting best camera settings for an input image<br>🤝 I’m looking for help with 3D Gaussian Splatting<br>🌱 I’m currently master's student Visual Computing in University Siegen<br>
+🔭 I’m currently working on predicting best camera settings for an input image<br>🤝 Much more interested in intersection of machine learning and computer graphics<br>🌱 I’m currently master's student Visual Computing in University Siegen<br>
 
 
 ## 🌐 Socials:
